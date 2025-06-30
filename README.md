@@ -1,6 +1,6 @@
 ## привет 👋
 
-# моя статистика
+## моя статистика
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amadesya&theme=cyber-streakglow&hide_border=true&border_radius=5.2&locale=ru&card_width=700&excludeDaysLabel=FFFFFF&background=212830&border=EB5454&stroke=FFFFFF&ring=17AF15&fire=FF8D00&currStreakNum=478BE6&sideNums=478BE6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 <!--
 **amadesya/amadesya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
