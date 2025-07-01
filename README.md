@@ -10,9 +10,8 @@
 </div>
 
 ## my stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amadesya&theme=cyber-streakglow&hide_border=true&border_radius=5.2&card_width=700&excludeDaysLabel=FFFFFF&background=212830&border=EB5454&stroke=FFFFFF&ring=17AF15&fire=FF8D00&currStreakNum=478BE6&sideNums=478BE6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=amadesya&hide_border=true&background=212830&stroke=FFFFFF&ring=157F00&fire=FF8000&currStreakNum=1A92C6&sideNums=1A92C6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&border=EBEBEB)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadesya&locale=en&bg_color=212830&&card_width=700&text_color=FFFFFF&hide_border=true)
 <!--
