@@ -14,6 +14,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=amadesya&hide_border=true&background=212830&stroke=FFFFFF&ring=157F00&fire=FF8000&currStreakNum=1A92C6&sideNums=1A92C6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&border=EBEBEB)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadesya&locale=en&bg_color=212830&&card_width=700&text_color=FFFFFF&hide_border=true)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ultrashitband?ext=heatmap)
 <!--
 **amadesya/amadesya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
