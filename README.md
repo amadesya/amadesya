@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadesya&locale=en&bg_color=212830&&card_width=700&text_color=FFFFFF&hide_border=true)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ultrashitband?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/amadesu?ext=heatmap)
 <!--
 **amadesya/amadesya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
