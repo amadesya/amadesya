@@ -10,7 +10,7 @@
 </div>
 
 ## my stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amadesya&theme=cyber-streakglow&hide_border=true&border_radius=5.2&card_width=700&excludeDaysLabel=FFFFFF&background=212830&border=EB5454&stroke=FFFFFF&ring=17AF15&fire=FF8D00&currStreakNum=478BE6&sideNums=478BE6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amadesya&theme=cyber-streakglow&hide_border=true&border_radius=5.2&card_width=700&excludeDaysLabel=FFFFFF&background=212830&border=EB5454&stroke=FFFFFF&ring=17AF15&fire=FF8D00&currStreakNum=478BE6&sideNums=478BE6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&locale=en)](https://git.io/streak-stats)
 
 
 
