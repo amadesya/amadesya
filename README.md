@@ -1,5 +1,12 @@
 ## hii 👋
 
+## devolompent
+I am developing:
+- server-side and desktop apps in C#
+- mobile apps in Kotlin
+- UI in React
+- bots and AI tools in Python
+
 ## technology
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
