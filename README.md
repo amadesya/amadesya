@@ -1,6 +1,5 @@
 ## hii 👋
 
-## devolompent
 I am developing:
 - server-side and desktop apps in C#
 - mobile apps in Kotlin
