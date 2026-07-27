@@ -17,6 +17,11 @@ I am developing:
 
 </div>
 
+### key projects
+- **[SmartFix](https://github.com/amadesya/SmartFixWeb)** — CRM/ERP system for service center (.NET 8, React, Docker, Nginx) | [Live Demo](https://smartfix.amadesu.space)
+- **[SantehStore](https://github.com/amadesya/SantehStore)** — E-Commerce store (ASP.NET Core, React, MySQL)
+- **[Sunflower](https://github.com/amadesya/SunflowerGloceryApp)** — Grocery delivery mobile app (Design & Architecture phase)
+
 ## my stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amadesya&hide_border=true&background=212830&stroke=FFFFFF&ring=157F00&fire=FF8000&currStreakNum=1A92C6&sideNums=1A92C6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&border=EBEBEB)](https://git.io/streak-stats)
