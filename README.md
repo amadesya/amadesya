@@ -24,8 +24,7 @@ I am developing:
 
 ## my stats
 
-![GitHub Streak](https://github-readme-streak-stats-five.vercel.app/?user=amadesya&hide_border=true&background=212830&stroke=FFFFFF&ring=157F00&fire=FF8000&currStreakNum=1A92C6&sideNums=1A92C6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&border=EBEBEB)
-
+![Metrics](./metrics.classic.svg)
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/amadesu?ext=heatmap)
