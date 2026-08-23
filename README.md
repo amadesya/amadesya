@@ -24,7 +24,7 @@ I am developing:
 
 ## my stats
 
-![Metrics](./metrics.classic.svg)
+![Metrics](./github-metrics.svg)
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/amadesu?ext=heatmap)
