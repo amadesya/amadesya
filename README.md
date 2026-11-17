@@ -18,7 +18,7 @@ I am developing:
 </div>
 
 ### key projects
-- **[SmartFix](https://github.com/amadesya/SmartFixWeb)** — CRM/ERP system for service center (.NET 8, React, Docker, Nginx) | [Live Demo](https://smartfix.amadesu.space)
+- **[SmartFix](https://github.com/amadesya/SmartFixWeb)** — CRM/ERP system for service center (.NET 8, React, Docker, Nginx)
 - **[SantehStore](https://github.com/amadesya/SantehStore)** — E-Commerce store (ASP.NET Core, React, MySQL)
 - **[Sunflower](https://github.com/amadesya/SunflowerGloceryApp)** — Grocery delivery mobile app (Design & Architecture phase)
 
